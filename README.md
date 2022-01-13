@@ -59,7 +59,6 @@
 
 
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
-
 <p align="center">
   <code><a href="https://www.linkedin.com/in/vikash-kumar-yadav-8090/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
   <code><a href="https://www.instagram.com/Simple_hello.world/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Akash's Instagram" width="40px" /></a></code>
