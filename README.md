@@ -62,15 +62,15 @@
 </p>
 
 
-![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikash-8090-yadav&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Vikash Yadav  github activity graph](https://activity-graph.herokuapp.com/graph?username=vikash-8090-yadav&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-![Akash's github activity graph](https://github.com/vikash-8090-yadav/vikash-8090-yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Vikash Yadav github activity graph](https://github.com/vikash-8090-yadav/vikash-8090-yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
- <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
+ <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/Handshake.gif" height="30px"></h4>
 <p align="center">
   <code><a href="https://www.linkedin.com/in/vikash-kumar-yadav-8090/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Vikkash's linkedin" width="40px" /></a></code>  
-  <code><a href="https://www.instagram.com/Simple_hello.world/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Akash's Instagram" width="40px" /></a></code>
-  <code><a href="https://twitter.com/Vikash_8090_b" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="40px" /></a></code>
-  <code><a href="https://wa.me/91 9592757079" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="40px" /></a></code>
-  <code><a href="https://github.com/Vikash-8090-Yadav" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="50px"/></a></code>                                                         
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>
+  <code><a href="https://www.instagram.com/Simple_hello.world/" target="blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/Instagram%20(1).svg" alt="Akash's Instagram" width="40px" /></a></code>
+  <code><a href="https://twitter.com/Vikash_8090_b" target="blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/twitter(color).png" width="40px" /></a></code>
+  <code><a href="https://wa.me/91 9592757079" target="blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/whatsapp(color).png" width="40px" /></a></code>
+  <code><a href="https://github.com/Vikash-8090-Yadav" target="blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/github(color).png" width="50px"/></a></code>                                                         
+<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/marquee.svg"/>
