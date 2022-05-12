@@ -57,6 +57,7 @@
 
 ![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikash-8090-yadav&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
+![Akash's github activity graph](https://github.com/vikash-8090-yadav/vikash-8090-yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
 <p align="center">
