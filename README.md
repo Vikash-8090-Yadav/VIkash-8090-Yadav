@@ -68,7 +68,7 @@
 
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px"></h4>
 <p align="center">
-  <code><a href="https://www.linkedin.com/in/vikash-kumar-yadav-8090/"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/Social/linked(color).png" alt="Vikkash's linkedin" width="40px" /></a></code>
+  <code><a href="https://www.linkedin.com/in/vikash-kumar-yadav-8090/"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Social/linked(color).png" alt="Vikkash's linkedin" width="40px" /></a></code>
   <code><a href="https://www.instagram.com/Simple_hello.world/" target="blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/Instagram%20(1).svg" alt="Akash's Instagram" width="40px" /></a></code>
   <code><a href="https://twitter.com/Vikash_8090_b" target="blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/twitter(color).png" width="40px" /></a></code>
   <code><a href="https://wa.me/91 9592757079" target="blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/whatsapp(color).png" width="40px" /></a></code>
