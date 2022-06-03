@@ -6,8 +6,13 @@
 <img align = "right" width =400 alt = "coding image " src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
 <!-- <br> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash-8090-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="vikash-8090-yadav" /> </p>
-<p align="left"> <a href="https://twitter.com/vikash_8090_b" target="blank"><img src="https://img.shields.io/twitter/follow/vikash_8090_b?logo=twitter&style=for-the-badge" alt="vikash_8090_b" /></a> </p>
+
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Vikash-8090-Yadav)
+[![Profile Visitors](https://komarev.com/ghpvc/?username=vikash-8090-yadav&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Vikash-8090-Yadav)
+[![Repos Badge](https://badges.pufler.dev/repos/Vikash-8090-Yadav?logo=github)](https://github.com/Vikash-8090-Yadav?tab=repositories)
+[![Twitter followers](https://img.shields.io/twitter/follow/vikash_8090_b?style=social)](https://twitter.com/intent/follow?screen_name=vikash_8090_b)
+
+<!-- <p align="left"> <a href="https://twitter.com/vikash_8090_b" target="blank"><img src="https://img.shields.io/twitter/follow/vikash_8090_b?logo=twitter&style=for-the-badge" alt="vikash_8090_b" /></a> </p> -->
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikash-8090-yadav" alt="vikash-8090-yadav" /></a> </p> -->
 
