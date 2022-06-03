@@ -42,6 +42,7 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/dj.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!-- LeetCode Stats Card ❤️ -->
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
   <a href="https://leetcode.com/yadav621gzp" target="_blank">
@@ -50,6 +51,8 @@
 </p>
 
 ### :zap: Most used languages ❤️
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-8090-yadav&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash-8090-yadav&theme=dracula" alt=""><br>
@@ -61,6 +64,8 @@
 
 
 ### :zap: GitHub Stats 📈
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-8090-yadav&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-8090-yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
