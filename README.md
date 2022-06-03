@@ -73,9 +73,9 @@
 </p>
 
 
-![Vikash Yadav  github activity graph](https://activity-graph.herokuapp.com/graph?username=vikash-8090-yadav&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Vikash Yadav  github activity graph](https://activity-graph.herokuapp.com/graph?username=Vikash-8090-Yadav&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-![Vikash Yadav github activity graph](https://github.com/vikash-8090-yadav/vikash-8090-yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Vikash Yadav github activity graph](https://github.com/Vikash-8090-yadav/Vikash-8090-Yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px"></h4>
 
