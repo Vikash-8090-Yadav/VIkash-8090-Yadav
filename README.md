@@ -67,9 +67,9 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-8090-yadav&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-8090-yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash-8090-yadav&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikash-8090-Yadav&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash-8090-Yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikash-8090-Yadav&theme=dracula" />
 </p>
 
 
