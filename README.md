@@ -8,7 +8,7 @@
 <!-- <br> -->
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Vikash-8090-Yadav)
-[![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Profile Visitors](https://komarev.com/ghpvc/?username=vikash-8090-yadav&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Vikash-8090-Yadav)
 [![Repos Badge](https://badges.pufler.dev/repos/Vikash-8090-Yadav?logo=github)](https://github.com/Vikash-8090-Yadav?tab=repositories)
 [![Twitter followers](https://img.shields.io/twitter/follow/vikash_8090_b?style=social)](https://twitter.com/intent/follow?screen_name=vikash_8090_b)
@@ -65,6 +65,8 @@
 
 
 ### :zap: GitHub Stats 📈
+
+[![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
