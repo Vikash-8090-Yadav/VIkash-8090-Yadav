@@ -77,7 +77,7 @@
 
 ![snake gif](https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/output/github-contribution-grid-snake.svg)
 
-![Vikash Yadav github activity graph](https://github.com/Vikash-8090-yadav/Vikash-8090-Yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Vikash Yadav github activity graph](https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px"></h4>
 
