@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently working on Open-Source,Web3,Devops.
 
-- 🌱 I’m currently learning **Django,TYpescript,Ehter  js , Hardhat**
+- 🌱 I’m currently learning **Django,typescript,Ether  js , Hardhat**
 
 - 💬 Ask me about **Dev,Web3 , Blockchain , Devops**
 
