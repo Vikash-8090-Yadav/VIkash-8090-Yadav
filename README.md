@@ -19,13 +19,13 @@
 
 <h1> About Me 👦</h1>
 
-- 🔭 I'm in the 2<sup>nd</sup> year of B.Tech Computer Science.
+- 🔭 I'm in the 3<sup>rd</sup> year of B.E Computer Science.
 
-- 🌱 I’m currently working on Open-Source.
+- 🌱 I’m currently working on Open-Source,Web3,Devops.
 
-- 🌱 I’m currently learning **Django , java , Dsa**
+- 🌱 I’m currently learning **Django,TYpescript,Ehter  js , Hardhat**
 
-- 💬 Ask me about **Dev,C.P,Dsa , Interview Question**
+- 💬 Ask me about **Dev,Web3 , Blockchain , Devops**
 
 - 📫 How to reach me **yadav621gzp@gmail.com**
 
