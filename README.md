@@ -1,12 +1,11 @@
 
-<h1 align="center">Hi 👋 ,I'm Vikash Kumar Yadav</h1>
+<h1 align="center">Hi 👋 , I'm Vikash Kumar Yadav</h1>
 <!-- <br> -->
 <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3>
 <br>
 <img align = "right" width =400 alt = "coding image " src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
 <!-- <br> -->
-
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Vikash-8090-Yadav)
 
