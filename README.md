@@ -1,13 +1,11 @@
-
-<h1 align="center">Hi 👋 , I'm  Vikash Kumar Yadav</h1>
 <!-- <br> -->
-<p">
+<p align="center">
 
- <img align = "center"  height = "20" alt = "coding image" src= "https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/main/images/header.png">
-
+ <img align = "center"  width =1000 alt = "coding image" src= "https://user-images.githubusercontent.com/85225156/229285004-969be3f0-3436-4688-aea7-2a7723fa1fc3.png">
 
   </p>
 <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3>
+
 <br>
 <img align = "right" width =400 alt = "coding image " src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
