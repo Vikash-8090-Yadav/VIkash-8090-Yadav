@@ -1,14 +1,14 @@
 <!-- <br> -->
 <p align="center">
 
- <img align = "center"  width =1000 alt = "coding image" src= "https://user-images.githubusercontent.com/85225156/229285004-969be3f0-3436-4688-aea7-2a7723fa1fc3.png">
+ <img align = "center"  width =1000  alt = "coding image" src= "https://user-images.githubusercontent.com/85225156/229285004-969be3f0-3436-4688-aea7-2a7723fa1fc3.png">
 
   </p>
 <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3>
 
 <br>
 
-<img align = "right" width =400  alt = "coding image " src = "https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966">
+<img align = "right" width =350  alt = "coding image " src = "https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966">
 <!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
 <!-- <br> -->
 
