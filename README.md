@@ -57,13 +57,23 @@
     <thead align="center">
         <tr border: 1px;>
             <td> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.png" width="75px" height="75px"> </td>
-            <td><b>⭐ Stars</b></td>
+            <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
-            <td><b>🔔 Open PRs <br> 🐛 Open Issues</b></td>
-            <td><b>🔕 Close PRs <br> 🔕 Close Issues</b></td>
-            <td><b>👨‍💻 Total Languages <br> 💻 Top Language</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
         </tr>
      </thead>
+      <tbody>
+         <tr>
+            <td><a href="https://github.com/Vikash-8090-Yadav/Future.WebNet"</a> <b><code>Future.Webnet</b></code> </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Vikash-8090-Yadav/Future.WebNet?style=plastic&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/Vikash-8090-Yadav/Future.WebNet?style=plastic&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Vikash-8090-Yadav/Future.WebNet?style=plastic&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Vikash-8090-Yadav/Future.WebNet?style=plastic&logo=github"/></td>
+            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Vikash-8090-Yadav/Future.WebNet?style=plastic&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
 </table>
 
 <!-- LeetCode Stats Card ❤️ -->
