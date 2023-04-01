@@ -2,7 +2,7 @@
 <p align="center">
  
  <img align = "center"  width =1000  alt = "coding image" src= "https://user-images.githubusercontent.com/85225156/229285004-969be3f0-3436-4688-aea7-2a7723fa1fc3.png">
-
+ 
   </p>
 <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3>
 <br>
@@ -123,25 +123,25 @@
 ### :zap: Most used languages ❤️
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-8090-yadav&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<p align="center">&nbsp;<img width="500" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-8090-yadav&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash-8090-yadav&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash-8090-yadav&theme=dracula">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5"> 
+    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash-8090-yadav&theme=dracula" alt=""><br>
+    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash-8090-yadav&theme=dracula">
+    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5"> 
 </a>
 </p>
 
 
 
 ### :zap: GitHub Stats 📈
-
-[![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikash-8090-Yadav&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash-8090-Yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikash-8090-Yadav&theme=dracula" />
+   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=Vikash-8090-Yadav&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!"/></a> <br><br>
+  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash-8090-Yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="center" width="500"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikash-8090-Yadav&theme=dracula" />
+ 
+ [![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 
