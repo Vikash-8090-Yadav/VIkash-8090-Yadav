@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋 , I'm  Vikash Kumar Yadav</h1>
 <!-- <br> -->
+<p align="left">
+  
+
+
+  </p>
 <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3>
 <br>
 <img align = "right" width =400 alt = "coding image " src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -72,6 +77,38 @@
             <td><img alt="Issues" src="https://img.shields.io/github/issues/Vikash-8090-Yadav/Future.WebNet?style=plastic&logo=github"/></td>
             <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Vikash-8090-Yadav/Future.WebNet?style=plastic&logo=github"/></td>
             <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Vikash-8090-Yadav/Future.WebNet?style=plastic&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+<p align="center">
+  <a href="https://github.com/Vikash-8090-Yadav/Solidity-Pathshala" target="_blank">
+   
+<img width=60% src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash-8090-Yadav&repo=Solidity-Pathshala&theme=radical&border_radius=20"/>
+  </a>
+</p>
+
+
+<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.png" width="75px" height="75px"> </td>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+        </tr>
+     </thead>
+      <tbody>
+         <tr>
+            <td><a href="https://github.com/Vikash-8090-Yadav/Solidity-Pathsha"</a> <b><code>Solidity Pathshala</b></code> </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Vikash-8090-Yadav/Solidity-Pathshala?style=plastic&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/Vikash-8090-Yadav/Solidity-Pathshala?style=plastic&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Vikash-8090-Yadav/Solidity-Pathshala?style=plastic&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Vikash-8090-Yadav/Solidity-Pathshala?style=plastic&logo=github"/></td>
+            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Vikash-8090-Yadav/Solidity-Pathshala?style=plastic&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
