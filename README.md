@@ -144,10 +144,7 @@
  [![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
-
-![Vikash Yadav  github activity graph](https://activity-graph.herokuapp.com/graph?username=Vikash-8090-Yadav&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
-![snake gif](https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/output/github-contribution-grid-snake.svg)
+ <img align="center" width="1500"  src="https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/output/github-contribution-grid-snake.svg" /><br><br>
 
 ![Vikash Yadav github activity graph](https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
