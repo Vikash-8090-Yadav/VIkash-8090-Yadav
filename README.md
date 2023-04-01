@@ -56,11 +56,10 @@
   </a>
 </p>
 
-
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
-            <td> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.png" width="75px" height="75px"> </td>
+            <td> <img src="https://user-images.githubusercontent.com/85225156/229285375-1391ddf9-fa35-4f34-9765-61138cb7f06c.png" width="75px" height="75px"> </td>
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
@@ -92,7 +91,7 @@
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
-            <td> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.png" width="75px" height="75px"> </td>
+            <td> <img src="https://user-images.githubusercontent.com/85225156/229285375-1391ddf9-fa35-4f34-9765-61138cb7f06c.png" width="75px" height="75px"> </td>
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
