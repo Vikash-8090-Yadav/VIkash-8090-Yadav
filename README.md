@@ -8,8 +8,6 @@
   </p>
 <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3>
 <br>
-<br>
-
 <img align = "right" width =350  alt = "coding image " src = "https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966">
 <!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
 <!-- <br> -->
@@ -20,7 +18,7 @@
 [![Profile Visitors](https://komarev.com/ghpvc/?username=vikash-8090-yadav&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Vikash-8090-Yadav)
 [![Repos Badge](https://badges.pufler.dev/repos/Vikash-8090-Yadav?logo=github)](https://github.com/Vikash-8090-Yadav?tab=repositories)
 [![Twitter followers](https://img.shields.io/twitter/follow/vikash_8090_b?style=social)](https://twitter.com/intent/follow?screen_name=vikash_8090_b)
-
+[![Github followers](https://img.shields.io/github/followers/Vikash-8090-Yadav?style=social)](https://github.com/Vikash-8090-Yadav)
 <!-- <p align="left"> <a href="https://twitter.com/vikash_8090_b" target="blank"><img src="https://img.shields.io/twitter/follow/vikash_8090_b?logo=twitter&style=for-the-badge" alt="vikash_8090_b" /></a> </p> -->
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikash-8090-yadav" alt="vikash-8090-yadav" /></a> </p> -->
