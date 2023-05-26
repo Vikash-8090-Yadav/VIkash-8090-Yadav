@@ -38,11 +38,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [How to use Amazon CodeWhisperer for devOps](https://omega1.hashnode.dev/how-to-use-amazon-codewhisperer-for-devops)
+- [Building a Serverless Project with Lambda Function, SNS, S3, and DynamoDB](https://omega1.hashnode.dev/building-a-serverless-project-with-lambda-function-sns-s3-and-dynamodb)
+- [How to host a static web3 site on  AWS using EC2 + S3 service.](https://omega1.hashnode.dev/how-to-host-a-static-web3-site-on-aws-using-ec2-s3-service)
+- [End-to-End Automation for Amazon EKS Using GitHub Actions.](https://omega1.hashnode.dev/end-to-end-automation-for-amazon-eks-using-github-actions)
+- [How to learn and earn in WEB3](https://omega1.hashnode.dev/how-to-learn-and-earn-in-web3)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
