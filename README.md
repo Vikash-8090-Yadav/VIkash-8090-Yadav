@@ -33,11 +33,8 @@
 - 📫 How to reach me **yadav621gzp@gmail.com**
 
 -   🎧 listening to: <br></samp>
- <p align="center">
-  <img  src="https://spotify-github-profile.vercel.app/api/view.svg?uid=phs9amcbecay0ahzbnexllu8r&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=phs9amcbecay0ahzbnexllu8r&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=f702cb&bar_color_cover=false">
-</p> <br>
-<br><br><br><br><br>
-
+ <img  src="https://spotify-github-profile.vercel.app/api/view.svg?uid=phs9amcbecay0ahzbnexllu8r&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=phs9amcbecay0ahzbnexllu8r&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=f702cb&bar_color_cover=false">
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
