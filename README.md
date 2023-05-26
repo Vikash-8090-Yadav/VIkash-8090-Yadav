@@ -148,6 +148,8 @@
  [![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
+[![Vikash-8090-Yadav's GitHub | Topics](https://stats.quine.sh/Vikash-8090-Yadav/topics-over-time?theme=dark)](https://quine.sh)
+
 ![Vikash Yadav github activity graph](https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px"></h4>
