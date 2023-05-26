@@ -1,6 +1,5 @@
 <!-- <br> -->
 <p align="center">
- 
 
  <img align = "center"  width =1000  alt = "coding image" src= "https://user-images.githubusercontent.com/85225156/229418629-92ccfc1d-8e45-4acd-abba-e195b68ff9ac.png">
 
@@ -25,7 +24,6 @@
 
 - 🔭 I'm in the 3<sup>rd</sup> year of B.E Computer Science.
 
-
 - 🌱 I’m currently working on Open-Source,Web3,Devops.
 
 - 🌱 I’m currently learning **Django,typescript,Ether  js , Hardhat**
@@ -34,7 +32,12 @@
 
 - 📫 How to reach me **yadav621gzp@gmail.com**
 
-- ⚡ Fun fact **I think am creative**	
+-   🎧 listening to: <br></samp>
+ <p align="center">
+  <img  src="https://spotify-github-profile.vercel.app/api/view.svg?uid=phs9amcbecay0ahzbnexllu8r&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=phs9amcbecay0ahzbnexllu8r&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=f702cb&bar_color_cover=false">
+</p> <br>
+<br><br><br><br><br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
