@@ -146,7 +146,7 @@
   <img align="center" width="1500"  src="https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/output/github-contribution-grid-snake.svg" /><br><br>
 
  
- [![Vikash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 [![Vikash-8090-Yadav's GitHub | Topics](https://stats.quine.sh/Vikash-8090-Yadav/topics-over-time?theme=dark)](https://quine.sh)
