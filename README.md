@@ -39,11 +39,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Web3 Application on the Spheron](https://omega1.hashnode.dev/deploying-a-web3-application-on-the-spheron)
 - [Understanding a Dockerfile for a Node.js Application Step by Step](https://omega1.hashnode.dev/understanding-a-dockerfile-for-a-nodejs-application-step-by-step)
 - [Deploying Your First Application on Argo CD](https://omega1.hashnode.dev/deploying-your-first-application-on-argo-cd)
 - [How to use Amazon CodeWhisperer for devOps](https://omega1.hashnode.dev/how-to-use-amazon-codewhisperer-for-devops)
 - [Building a Serverless Project with Lambda Function, SNS, S3, and DynamoDB](https://omega1.hashnode.dev/building-a-serverless-project-with-lambda-function-sns-s3-and-dynamodb)
-- [How to host a static web3 site on  AWS using EC2 + S3 service.](https://omega1.hashnode.dev/how-to-host-a-static-web3-site-on-aws-using-ec2-s3-service)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
