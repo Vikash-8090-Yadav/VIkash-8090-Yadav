@@ -37,11 +37,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Post: Empowering the AWS Community with Knowledge Sharing](https://omega1.hashnode.dev/aws-repost-empowering-the-aws-community-with-knowledge-sharing)
 - [Automating Docker Image Deployment to Amazon ECR with GitHub Actions](https://omega1.hashnode.dev/automating-docker-image-deployment-to-amazon-ecr-with-github-actions)
 - [Deploying a Web3 Application on the Spheron](https://omega1.hashnode.dev/deploying-a-web3-application-on-the-spheron)
 - [Understanding a Dockerfile for a Node.js Application Step by Step](https://omega1.hashnode.dev/understanding-a-dockerfile-for-a-nodejs-application-step-by-step)
 - [Deploying Your First Application on Argo CD](https://omega1.hashnode.dev/deploying-your-first-application-on-argo-cd)
-- [How to use Amazon CodeWhisperer for devOps](https://omega1.hashnode.dev/how-to-use-amazon-codewhisperer-for-devops)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
