@@ -60,7 +60,9 @@
 
 
 <br>
-<h2>Shout Out to latest Follower's 🌟</h2>
+<h2 align="center">Shout Out to latest Follower's 🌟</h2>
+
+<p align="center">
 
 <!-- FOLLOWERS_SECTION_START -->
 | Follower | Username |
@@ -68,6 +70,8 @@
 | [![daipeihust](https://avatars.githubusercontent.com/u/13344830?v=4&s=50)](https://github.com/daipeihust) | daipeihust |
 | [![gmaheshraju](https://avatars.githubusercontent.com/u/21260123?v=4&s=50)](https://github.com/gmaheshraju) | gmaheshraju |
 | [![camilitwo](https://avatars.githubusercontent.com/u/22084703?v=4&s=50)](https://github.com/camilitwo) | camilitwo |<!-- FOLLOWERS_SECTION_END -->
+
+</p>
 
 <br>
 
