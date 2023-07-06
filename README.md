@@ -60,6 +60,16 @@
 
 
 <br>
+<h2>Shout Out to latest Follower's 🌟</h2>
+
+<!-- FOLLOWERS_SECTION_START -->
+| Follower | Username |
+| --- | --- |
+| [![daipeihust](https://avatars.githubusercontent.com/u/13344830?v=4&s=50)](https://github.com/daipeihust) | daipeihust |
+| [![gmaheshraju](https://avatars.githubusercontent.com/u/21260123?v=4&s=50)](https://github.com/gmaheshraju) | gmaheshraju |
+| [![camilitwo](https://avatars.githubusercontent.com/u/22084703?v=4&s=50)](https://github.com/camilitwo) | camilitwo |<!-- FOLLOWERS_SECTION_END -->
+
+<br>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <p align="center">
@@ -182,3 +192,9 @@
 <img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/marquee.svg"/>
 
 <img height="100%" width="100%" alt="Bottom" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/bottom_header.svg"/>
+
+
+
+
+
+
