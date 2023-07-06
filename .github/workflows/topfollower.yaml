@@ -1,0 +1,32 @@
+name: Fetch GitHub Followers
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Schedule the action to run every hour or adjust the frequency as needed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Fetch Followers
+        run: node index.js
+        
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update followers"
+          git push
