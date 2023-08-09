@@ -136,6 +136,7 @@
 
 <!-- LeetCode Stats Card ❤️ -->
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
   <a href="https://leetcode.com/yadav621gzp" target="_blank">
@@ -166,8 +167,22 @@
 
  ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  
-  <img align="center" width="1500"  src="https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/output/github-contribution-grid-snake.svg" /><br><br>
-
+ 
+  <img align="center" width="1500"  src="https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/output/github-contribution-grid-snake.svg" />
+  
+ <br><br>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
