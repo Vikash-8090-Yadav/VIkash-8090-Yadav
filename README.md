@@ -168,9 +168,8 @@
 
  ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
- 
-  <img align="center" width="1500"  src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/output/github-contribution-grid-snake.svg" />
+
+  <img align="center" width="1500"  src="https://github.com/Vikash-8090-Yadav/VIkash-8090-Yadav/blob/output/github-contribution-grid-snake-dark.svg"/>
   
  <br><br>
 
