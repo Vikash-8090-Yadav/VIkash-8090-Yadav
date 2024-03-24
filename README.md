@@ -41,11 +41,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [DApp Scout: Unveiling the Decentralized Application Landscape within Blockscout](https://omega1.hashnode.dev/dapp-scout-unveiling-the-decentralized-application-landscape-within-blockscout)
+- [Demystifying the Blockchain: Your Guide to Blockscout](https://omega1.hashnode.dev/demystifying-the-blockchain-your-guide-to-blockscout)
 - [Presenting Minds! - Your Path to Acing Technical Interviews!](https://omega1.hashnode.dev/presenting-minds-your-path-to-acing-technical-interviews)
 - [Understand Router Nitro in a simple way](https://omega1.hashnode.dev/understand-router-nitro-in-a-simple-way)
 - [AWS re:Post: Empowering the AWS Community with Knowledge Sharing](https://omega1.hashnode.dev/aws-repost-empowering-the-aws-community-with-knowledge-sharing)
-- [Automating Docker Image Deployment to Amazon ECR with GitHub Actions](https://omega1.hashnode.dev/automating-docker-image-deployment-to-amazon-ecr-with-github-actions)
-- [Deploying a Web3 Application on the Spheron](https://omega1.hashnode.dev/deploying-a-web3-application-on-the-spheron)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
