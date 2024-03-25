@@ -41,8 +41,8 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Swapping on the Optimism Chain: A Guide to Using Uniswap with Blockscout&#39;s DApp Scout](https://omega1.hashnode.dev/swapping-on-the-optimism-chain-a-guide-to-using-uniswap-with-blockscouts-dapp-scout)
-- [DApp Scout: Unveiling the Decentralized Application Landscape within Blockscout](https://omega1.hashnode.dev/dapp-scout-unveiling-the-decentralized-application-landscape-within-blockscout)
+- [Swapping on the Optimism Chain: A Guide to Using Uniswap with Blockscout&#39;s DAppscout](https://omega1.hashnode.dev/swapping-on-the-optimism-chain-a-guide-to-using-uniswap-with-blockscouts-dappscout)
+- [DAppscout: Unveiling the Decentralized Application Landscape within Blockscout](https://omega1.hashnode.dev/dappscout-unveiling-the-decentralized-application-landscape-within-blockscout)
 - [Demystifying the Blockchain: Your Guide to Blockscout](https://omega1.hashnode.dev/demystifying-the-blockchain-your-guide-to-blockscout)
 - [Presenting Minds! - Your Path to Acing Technical Interviews!](https://omega1.hashnode.dev/presenting-minds-your-path-to-acing-technical-interviews)
 - [Understand Router Nitro in a simple way](https://omega1.hashnode.dev/understand-router-nitro-in-a-simple-way)
