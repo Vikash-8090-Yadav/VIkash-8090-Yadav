@@ -24,8 +24,6 @@
 
 <h1> About Me 👦</h1>
 
-- 🔭 I'm in the 4<sup>rd</sup> year of B.E Computer Science.
-
 - 🌱 I’m currently working on Open-Source,Web3,Devops.
 
 - 🌱 I’m currently learning **Django,typescript,Ether  js , Hardhat**
