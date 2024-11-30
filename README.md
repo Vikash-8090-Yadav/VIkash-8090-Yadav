@@ -38,11 +38,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Power of DAppscout: Your Gateway to Web3 Applications](https://omega1.hashnode.dev/exploring-the-power-of-dappscout-your-gateway-to-web3-applications)
 - [Integrating Blockscout API in Your DApp: Fetching Account Balance, Transactions, and Address Details](https://omega1.hashnode.dev/integrating-blockscout-api-in-your-dapp-fetching-account-balance-transactions-and-address-details)
 - [How to deploy smart contract on conflux network using Hardhat](https://omega1.hashnode.dev/how-to-deploy-smart-contract-on-conflux-network-using-hardhat)
 - [Swap tokens on uniswap in 3 simple steps](https://omega1.hashnode.dev/swap-tokens-on-uniswap-in-3-simple-steps)
 - [Swapping on the Optimism Chain: A Guide to Using Uniswap with Blockscout&#39;s DAppscout](https://omega1.hashnode.dev/swapping-on-the-optimism-chain-a-guide-to-using-uniswap-with-blockscouts-dappscout)
-- [DAppscout: Unveiling the Decentralized Application Landscape within Blockscout](https://omega1.hashnode.dev/dappscout-unveiling-the-decentralized-application-landscape-within-blockscout)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
