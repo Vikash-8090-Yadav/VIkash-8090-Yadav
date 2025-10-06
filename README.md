@@ -38,11 +38,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Private and Public Tags in Blockscout and Add Addresses to Your Watchlist](https://omega1.hashnode.dev/how-to-set-up-private-and-public-tags-in-blockscout-and-add-addresses-to-your-watchlist)
-- [Exploring the Power of DAppscout: Your Gateway to Web3 Applications](https://omega1.hashnode.dev/exploring-the-power-of-dappscout-your-gateway-to-web3-applications)
-- [Integrating Blockscout API in Your DApp: Fetching Account Balance, Transactions, and Address Details](https://omega1.hashnode.dev/integrating-blockscout-api-in-your-dapp-fetching-account-balance-transactions-and-address-details)
-- [How to deploy smart contract on conflux network using Hardhat](https://omega1.hashnode.dev/how-to-deploy-smart-contract-on-conflux-network-using-hardhat)
-- [Swap tokens on uniswap in 3 simple steps](https://omega1.hashnode.dev/swap-tokens-on-uniswap-in-3-simple-steps)
+- [Building TokenLookUp: A Comprehensive Multi-Chain Token Explorer using Blockscout API](https://omega1.hashnode.dev/building-tokenlookup-a-comprehensive-multi-chain-token-explorer-using-blockscout-api)
+- [Unlock Blockchain Data for AI: A Complete Guide to the Blockscout MCP Server](https://omega1.hashnode.dev/unlock-blockchain-data-for-ai-a-complete-guide-to-the-blockscout-mcp-server)
+- [Unlocking the Power of Blockscout’s Token &amp; Contract Widgets.](https://omega1.hashnode.dev/unlocking-the-power-of-blockscouts-token-and-contract-widgets)
+- [🔍 How to Verify Smart Contracts on Blockscout Using the Story Testnet](https://omega1.hashnode.dev/how-to-verify-smart-contracts-on-blockscout-using-the-story-testnet)
+- [Introduction to Actively Validated Services &lpar;AVS&rpar; in EigenLayer: Revolutionizing Ethereum’s Security Landscape](https://omega1.hashnode.dev/introduction-to-actively-validated-services-avs-in-eigenlayer-revolutionizing-ethereums-security-landscape)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
