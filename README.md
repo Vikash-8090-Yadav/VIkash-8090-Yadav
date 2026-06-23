@@ -38,11 +38,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Learn How to Manage Token Approvals with Revokescout](https://omega1.hashnode.dev/learn-how-to-manage-token-approvals-with-revokescout)
+- [🚀 Exploring Blockscout Widgets: The Future of Onchain Identity &amp; Insights](https://omega1.hashnode.dev/exploring-blockscout-widgets-the-future-of-onchain-identity-and-insights)
 - [Building TokenLookUp: A Comprehensive Multi-Chain Token Explorer using Blockscout API](https://omega1.hashnode.dev/building-tokenlookup-a-comprehensive-multi-chain-token-explorer-using-blockscout-api)
 - [Unlock Blockchain Data for AI: A Complete Guide to the Blockscout MCP Server](https://omega1.hashnode.dev/unlock-blockchain-data-for-ai-a-complete-guide-to-the-blockscout-mcp-server)
 - [Unlocking the Power of Blockscout’s Token &amp; Contract Widgets.](https://omega1.hashnode.dev/unlocking-the-power-of-blockscouts-token-and-contract-widgets)
-- [🔍 How to Verify Smart Contracts on Blockscout Using the Story Testnet](https://omega1.hashnode.dev/how-to-verify-smart-contracts-on-blockscout-using-the-story-testnet)
-- [Introduction to Actively Validated Services &lpar;AVS&rpar; in EigenLayer: Revolutionizing Ethereum’s Security Landscape](https://omega1.hashnode.dev/introduction-to-actively-validated-services-avs-in-eigenlayer-revolutionizing-ethereums-security-landscape)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
